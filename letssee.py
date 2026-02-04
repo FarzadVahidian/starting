@@ -1,3 +1,3 @@
 initiaword = "Hello mfs"
 badesh = "inam baraye bargasht"
-conflict = "conflictgit2"
+conflict = "conflictgit1"
