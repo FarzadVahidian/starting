@@ -1,0 +1,1 @@
+initiaword = "Hello mfs"
